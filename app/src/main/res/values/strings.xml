@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">BasicComposeLayoutDemo</string>
+    <string name="plceholder_search">Search</string>
+    <string name="ab1_inversions">Inversions</string>
+    <string name="fc2_nature_meditations">Nature Meditations</string>
+    <string name="ab2_quick_yoga">Quick Yoga</string>
+    <string name="ab6_pre_natal_yoga">Pre-natalyoga</string>
+    <string name="ab3_stretching">Stretching</string>
+    <string name="ab4_tabata">Tabata</string>
+    <string name="ab5_hiit">HIIT</string>
+    <string name="fc1_short_mantras">Short_Mantras</string>
+    <string name="fc3_stress_and_anxiety">Stress and Anxiety</string>
+    <string name="fc4_self_massage">Self Message</string>
+    <string name="fc5_overwhelmed">overwhelmed</string>
+    <string name="fc6_nightly_wind_down">nightly_wind_down</string>
+    <string name="align_your_body">Align Your Body</string>
+    <string name="favorite_collections">Favorite Collections</string>
+    <string name="bottom_navigation_home">Home</string>
+    <string name="bottom_navigation_profile">Profile</string>
+</resources>
